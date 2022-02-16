@@ -11,6 +11,6 @@ La présente étude est une première mission d’analyse exploratoire, pour dé
 ## 2-Données :
 Données de la Banque mondiale (https://datacatalog.worldbank.org/dataset/education-statistics)
 
-## 3-Résultats :
+## 3-Livrables :
 - P2_Notebook.ipynb : notebook comportant les analyses pré-exploratoires réalisées
-- P2_presentation.pdf : support de présentation
+- P2_Presentation.pdf : support de présentation
